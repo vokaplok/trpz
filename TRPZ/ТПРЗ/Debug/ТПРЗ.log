@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\1.10.20\source\repos\ТПРЗ\ТПРЗ\Source.cpp(528,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1.10.20\source\repos\ТПРЗ\ТПРЗ\Source.cpp(692,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1.10.20\source\repos\ТПРЗ\ТПРЗ\Source.cpp(902,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1.10.20\source\repos\ТПРЗ\ТПРЗ\Source.cpp(944,19): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\1.10.20\source\repos\ТПРЗ\ТПРЗ\Source.cpp(945,23): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  ТПРЗ.vcxproj -> C:\Users\1.10.20\source\repos\ТПРЗ\Debug\ТПРЗ.exe
